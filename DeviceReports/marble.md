@@ -24,7 +24,7 @@
 | Inventory HUD+ | ✅(3.4.26) |
 | Just Enough Items | ✅(19.21.0.247) |
 | Distant Horizons | ✅(2.2.1-a) |
-
+| Modern UI | ✅(3.11.1.9) |
 
 ## Shaderpack compatibility
 
