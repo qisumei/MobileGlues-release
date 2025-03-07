@@ -23,6 +23,7 @@
 | Jade | ✅(15.9.3) |
 | Inventory HUD+ | ✅(3.4.26) |
 | Just Enough Items | ✅(19.21.0.247) |
+| Distant Horizons | ✅(2.2.1-a) |
 
 
 ## Shaderpack compatibility
@@ -38,7 +39,12 @@
 | MakeUp-UltraFast | Iris 1.8.8 | ✅(9.1c, high) |
 | iterationT | Iris 1.8.8 | ✅(3.2.0, High) |
 | UShader | Iris 1.8.8 | ✅(2.1, Default) |
+| SEUS PTGI HRR3 | Iris 1.8.8 | ✅(all presets)
+| Kappa | Iris 1.8.8 | *️⃣(5.2, 所有预设天空盒黑色)
 
 ## Notes
 
 在官方 Hyper OS 1.0.17.0.UMRCNXM (Android 14) 上运行时，需要禁用Angle，因为当前系统GPU驱动支持vulkan版本仅为1.1.128
+
+第三方系统crdroid 11.2
+即便是更新高通GPU驱动，Kappa的天空永远是黑色
