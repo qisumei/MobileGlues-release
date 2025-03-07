@@ -1,4 +1,4 @@
-# Redmi K60 (23013RK75C)
+# Redmi K60 (mondrian)
 
 
 ## Device Info
