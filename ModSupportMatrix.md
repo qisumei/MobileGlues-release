@@ -28,7 +28,7 @@ Guidance on how to fill out the table can be found in the [Call to Action sectio
 | Xiaomi 14 (houji) | Qualcomm Snapdragon 8 Gen 3 (SM8650) | Adreno (TM) 750 | Android 15 | N/A | 1.1.0.1 | 1.21.4 | Fabric 0.16.9 | ✅(0.6.3) | ✅(1.8.3) | ✅(1.0.35) |？ |✅(25.1.0) | ✅(1.39.4) |? | ？ | ✅(6.2.10) | ✅(3.11.1.11) |? |? |? |? | [23127PN0CC.md](./DeviceReports/23127PN0CC.md) |
 | Vivo Pad2 (PA2373)               | MediaTek Dimensity 9000 (MT8798)           | Mali-G710 MC10                | Android 14   | ANGLE                                         | 1.1.0.1            | 1.21.4              | Fabric 0.16.10      | ✅(0.6.10)        | ✅(1.8.8)      | ?       | ?          | ✅(25.1.0)                | ✅(1.39.4)              | ?               | ?             | ✅(0.6.2.10)                                  | ✅(3.11.1.11)    | ✅(3.0.0) | ✅(17.2.2) | ✅3.4.27 | ? | [PA2373.md](./DeviceReports/PA2373.md)     |
 | HONOR ViewPad 7 Pro(BRT-W09) | MediaTek Kompanio 1300T | Mali G77 MC9 | Android 12 | ANGLE(Required to archive better performance) | 1.1.0.1 | 1.21.4 | Fabric 0.16.10 | ✅(0.6.10) | ✅(1.8.8) | ? | ❎(no 1.21.4 version) | ✅(25.1.0) | ✅(1.39.4) | ? | ? | ? | ✅(3.11.1.11) | ? | ? | ? | ? | [BRT-W09.md](./DeviceReports/BRT-W09.md) |
-
+| OPPO Reno9 Pro+ (PGW110)             | Snapdragon 8+ Gen 1 (SM8475)  | Adreno (TM) 730           | Android 15   | N/A                                         | 1.1.0.1            | 1.21.4              | Fabric 0.16.10      | ✅(0.6.6)        | ✅(1.8.5)      | ?                 | ?                    | ✅(25.0.1)                | ✅(1.39.3)              | ?                                 | ?                     | ✅(6.2.10)                        | ?                 | ?|?|?|?|[PGW110.md](./DeviceReports/PGW110.md) |
 
 <div>
 
