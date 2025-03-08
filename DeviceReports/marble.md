@@ -23,6 +23,7 @@
 | Jade | ✅(15.9.3) |
 | Inventory HUD+ | ✅(3.4.26) |
 | Just Enough Items | ✅(19.21.0.247) |
+| Roughly Enough Items |✅(16.0.799) |
 | Distant Horizons | ✅(2.2.1-a) |
 | Modern UI | ✅(3.11.1.9) |
 
@@ -39,15 +40,19 @@
 | photon | Iris 1.8.8 | ✅(v1.1, High) |
 | MakeUp-UltraFast | Iris 1.8.8 | ✅(9.1c, high) |
 | iterationT | Iris 1.8.8 | ✅(3.2.0, High) |
-| iterationT Next | Iris 1.8.8 | ✅(1.1.0, all presets)
+| iterationT Next | Iris 1.8.8 | ✅(1.1.0, all presets) |
+| Nostalgia | Iris 1.8.8 | ✅(v5.1, all presets) |
 | UShader | Iris 1.8.8 | *️⃣(v2.2, 所有预设天空盒黑色) |
-| SEUS | Iris 1.8.8 | ✅(v11.0, all presets)|
+| Rethinking Voxels | Iris 1.8.8 | *️⃣(r0.1-beta6a, 阴影无法渲染) |
+| SEUS | Iris 1.8.8 | ✅(v10-RC6, v11.0, all presets)|
 | SEUS E | Iris 1.8.8 | ✅(10-12, all presets)
 | SEUS PTGI HRR | Iris 1.8.8 | ✅(2-3, all presets) |
 | SEUS Renewed | Iris 1.8.8 | ✅(v1.0.1, E2, all presets) |
+| SEUS DAZZLING | Iris 1.8.8 | *️⃣(v2.2.4, 光照阴影渲染错误)
 | Continuum | Iris 1.8.8 | ✅(1.3, 2.0.5, all presets) |
 | Kappa | Iris 1.8.8 | *️⃣(v5.2, 所有预设天空盒黑色) |
 | KappaPT | Iris 1.8.8 | ❌(P15, 画面黑屏) |
+| Revelation | Iris 1.8.8 | ❌(v1, 地面和建筑无法渲染) |
 
 # Shaderpack Screenshot
 - Kappa v5.2  
@@ -56,7 +61,12 @@
 ![UShader v2.2](/assets/shaderpack_screenshot/marble/ushader_2.2.png)
 - KappaPT P15
 ![KappaPT P15](/assets/shaderpack_screenshot/marble/kappapt_p15.png)
-
+- SEUS DAZZLING v2.2.4
+![SEUS DAZZLING](/assets/shaderpack_screenshot/marble/SEUS-DAZZLING.png)
+- Revelation
+![Revelation](/assets/shaderpack_screenshot/marble/Revelation.png)
+- Rethinking Voxels r0.1-beta6a
+![SEUS DAZZLING](/assets/shaderpack_screenshot/marble/rethinking-voxels.png)
 
 ## Notes
 在第三方系统 CrDroid 11.x (Android 15)下测试，使用高通786新驱动测试
