@@ -29,8 +29,3 @@ Guidance on how to fill out the table can be found in the [Call to Action sectio
 | HONOR ViewPad 7 Pro (BRT-W09) | MediaTek Kompanio 1300T | Mali G77 MC9 | Android 12 | ANGLE | 1.1.0.1 | 1.21.4 | Iris 1.8.8 | *️⃣(8.4.02.2) | ? | ✅(9.1c) | *️⃣(v1.1) | ? | ? | ❎(r5.4) | ❎(r5.4) | ? | ✅(v1.1) | ✅(8.4.02.2) | [BRT-W09.md](./DeviceReports/BRT-W09.md) |
 
 <div>
-<!--Femboy Swung0x48-->
-
-<!--Femboy Swung0x48-->
-
-<!--Femboy Swung0x48-->
