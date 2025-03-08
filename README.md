@@ -3,7 +3,7 @@
 MobileGlues
 ====
 
-### **Language**: [简体中文](README_CN.md) | [繁體中文](README_CHT.md) | [日本語](README_JP,md)
+### **Language**: [简体中文](README_CN.md) | [繁體中文](README_CHT.md) | [日本語](README_JP.md)
 
 > [!NOTE]
 > 
