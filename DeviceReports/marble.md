@@ -26,6 +26,7 @@
 | Roughly Enough Items |✅(16.0.799) |
 | Distant Horizons | ✅(2.2.1-a) |
 | Modern UI | ✅(3.11.1.9) |
+| Immersive Portals Continued |*️⃣(6.0.7, 无法渲染传送门) |
 
 ## Shaderpack compatibility
 
