@@ -130,9 +130,3 @@ deferred1.vsh: deferred1.vsh: 0:2: P0003: Extension 'GL_NV_shader_noperspective_
 *It supposed to be a vanilla-like shader plus extra tweaks*
 
 ![Tea](../assets/shaderpack_screenshot/BRT-W09/Tea.jpg)
-
-<!--Femboy Swung0x48-->
-
-<!--Femboy Swung0x48-->
-
-<!--Femboy Swung0x48-->
