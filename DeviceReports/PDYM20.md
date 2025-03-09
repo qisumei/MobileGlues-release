@@ -1,4 +1,4 @@
-# TD Tech M40 (TDT-MA01)
+# Oppo A72 5G (PDYM20)
 
 ## Device Info
 
