@@ -4,6 +4,7 @@ This table shows the compatibility of various mods with MobileGlues, as tested o
 
 Guidance on how to fill out the table can be found in the [Call to Action section of README.md](https://github.com/Swung0x48/MobileGlues-release/blob/main/README.md#call-to-action).
 
+
 <div style="overflow-x: auto;">
 
 | **Device (Codename)**           | **SoC**                      | **GPU**                   | **OS**       | **Additional Drivers/Plugins in use**       | **MobileGlues**    | **Minecraft**       | **ModLoader**       | **Sodium**        | **Iris**        | **Indium**       | **Distant Horizon**   | **Xaero's Minimap**       | **Xaero's World Map**    | **Create**                       | **TaCZ**               | **Entity Texture Features**        | **Modern UI**    | **Continuity** | **Jade** | **Inventory HUD+** | **Just Enough Items** | **Report**|
@@ -34,6 +35,6 @@ Guidance on how to fill out the table can be found in the [Call to Action sectio
 | Xiaomi Redmi K30 Pro Zoom Editon (lmipro)                | Qualcomm Snapdragon 865 5G (SM8250)           | Adreno (TM) 650                | Android 14   | N/A                                         | 1.1.0.1            | 1.21.3              | Fabric 0.16.10      | ✅(0.6.5)        | *️⃣(1.8.1)      | ?       | ?          | ✅(25.1.0)                | ✅(1.39.4)              | ?               | ?             | ✅(6.2.9)                          | ?    |✅(3.0.0)|✅(16.0.4)|?|?| [lmipro.md](./DeviceReports/lmipro.md)     |
 |TD Tech M40 (TDT-MA01)             | Dimensity 1000+ (MT6889) | Mali-G77 MC9           | Android 10   | N/A                                         | 1.1.0.1            | 1.21.4              | Fabric 0.16.10      | ✅(0.6.10)        | ✅(1.8.8)      | ?                 | ?                    | ✅(25.1.0)                | ✅(1.39.4)              | ?                                 | ?                     | ✅(6.2.10)                        | ✅(3.11.1.11) | ✅(3.0.0) | ✅(17.2.2) | ✅(3.4.27) | ?                  | [TDT-MA01.md](./DeviceReports/TDT-MA01.md) |
 | Vivo Y31s (V2054A)             | Snapdragon 480 (SM4350) | Adreno 619           | Android 11   | N/A                                         | 1.1.0.1            | 1.21.4              | Fabric 0.16.10      | ✅(0.6.10)        | ✅(1.8.8)      | ?                 | ?                    | ✅(25.1.0)                | ✅(1.39.4)              | ?                                 | ?                     | ✅(6.2.10)                        | ✅(3.11.1.11) | ✅(3.0.0) | ✅(17.2.2) | ✅(3.4.27) | ?                  | [V2054A.md](./DeviceReports/V2054A.md) |
+| Oppo A72 5G (PDYM20)                      | MediaTek Dimensity 720 (MT6853)        | Mali-G57 MC3                          | Android 12  | N/A                                           | 1.1.0.1         | 1.20.1        | Fabric 0.16.10         | ✅(0.5.13)  | ✅(1.7.2)    | ✅(1.0.36)  | ✅(2.2.1-a)           | ✅(25.1.0)           | ✅(1.39.4)             | ✅(fabric-0.5.1-j)   | (1.0.2)          | ✅(6.2.9)                    | ✅(3.11.1.6)   | ✅(3.0.0)       | ✅(11.12.3) | ✅(3.4.26)          | ✅15.20.0.106          | [PDYM20.md](./DeviceReports/PDYM20.md)     |
 
 <div>
-
