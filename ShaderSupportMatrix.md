@@ -29,5 +29,6 @@ Guidance on how to fill out the table can be found in the [Call to Action sectio
 | Xiaomi Redmi K30 Pro Zoom Editon (lmipro) | Qualcomm Snapdragon 865 5G (SM8250) | Adreno (TM) 650 | Android 14 | N/A | 1.1.0.1 | 1.21.3 | Iris 1.8.1 | ? | ? | ✅(9.1c, all presets) | ? | ? | ? | ? | ? | ? | ? | ? | [lmipro.md](./DeviceReports/lmipro.md) |
 | TD Tech M40 (TDT-MA01) | Dimensity 1000+ (MT6889) | Mali-G77 MC9 | Android 10 | N/A  | 1.1.0.1 | 1.21.4 | Iris 1.8.8 | ✅(8.4.01.2) | ✅(V6 Lite) | ✅(9.1c) | *️⃣(v1.1，天空渲染错误) | *️⃣(3.2.0，除了水面波纹，草晃动外没有任何效果) | ? | ❌(r5.4) | ❌(r5.4) | ? | ? | ? |[TDT-MA01.md](./DeviceReports/TDT-MA01.md) |
 | HONOR ViewPad 7 Pro (BRT-W09) | MediaTek Kompanio 1300T | Mali G77 MC9 | Android 12 | ANGLE | 1.1.0.1 | 1.21.4 | Iris 1.8.8 | *️⃣(8.4.02.2) | ? | ✅(9.1c) | *️⃣(v1.1) | ? | ? | ❎(r5.4) | ❎(r5.4) | ? | ✅(v1.1) | ✅(8.4.02.2) | [BRT-W09.md](./DeviceReports/BRT-W09.md) |
+| Vivo Y31s (V2054A) | Snapdragon 480 (SM4350) | Adreno 619 | Android 11 | N/A  | 1.1.0.1 | 1.21.4 | Iris 1.8.8 | ✅(8.4.01.2) | ✅(V6 Lite) | ✅(9.1c) | ✅(v1.1) | ✅(3.2.0) | ? | ❌(r5.4) | ❌(r5.4) | ? | [V2054A.md](./DeviceReports/V2054A.md) |
 
 <div>
