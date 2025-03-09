@@ -33,5 +33,6 @@ Guidance on how to fill out the table can be found in the [Call to Action sectio
 | HONOR ViewPad 7 Pro (BRT-W09) | MediaTek Kompanio 1300T | Mali G77 MC9 | Android 12 | ANGLE | 1.1.0.1 | 1.21.4 | Iris 1.8.8 | *️⃣(8.4.02.2) | ? | ✅(9.1c) | *️⃣(v1.1) | ? | ? | ❎(r5.4) | ❎(r5.4) | ? | ✅(v1.1) | ✅(8.4.02.2) | [BRT-W09.md](./DeviceReports/BRT-W09.md) |
 | Vivo Y31s (V2054A) | Snapdragon 480 (SM4350) | Adreno 619 | Android 11 | N/A  | 1.1.0.1 | 1.21.4 | Iris 1.8.8 | ✅(8.4.01.2) | ✅(V6 Lite) | ✅(9.1c) | ✅(v1.1) | ✅(3.2.0) | ? | ❌(r5.4) | ❌(r5.4) | ? |?|?| [V2054A.md](./DeviceReports/V2054A.md) |
 | Oppo A72 5G (PDYM20)                      | MediaTek Dimensity 720 (MT6853)      | Mali G57 MC3              | Android 12  | N/A                                     | 1.1.0.1         | 1.20.1        | Iris 1.7.2         | ✅(8.4, all presets)      | ?                          | ✅(9.1c,all presets)  | ❌(v1.1)             | ✅(3.2.0, all presets)         | ?                  | ?                                            | ?                                            | ?                               | ?       | ?               | [BRT-W09.md](./DeviceReports/BRT-W09.md)                                       |
-  
+| HUAWEI Mate 30 5G (TAS-AN00) | Kirin 990 5G | Mali-G76 | Android 12 | N/A  | 1.1.0.1 | 1.21.4 | Iris 1.8.8 | *️⃣(8.4.01.2，实体渲染错误) | *️⃣(V6 Lite，实体渲染错误) | *️⃣(9.1c，实体渲染错误) | *️⃣(v1.1，天空渲染错误，实体渲染错误) | *️⃣(3.2.0，世界渲染错误，实体渲染错误) | ? | ❌(r5.4) | ❌(r5.4) | ? |?|?| [TAS-AN00.md](./DeviceReports/TAS-AN00.md) |
+
 <div>
