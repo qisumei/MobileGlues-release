@@ -9,7 +9,7 @@ MobileGlues
 > 
 > The latest version:
 > 
-> **1.1.0.1**
+> **1.1.0.2**
 >
 > See [Releases](https://github.com/Swung0x48/MobileGlues-release/releases)
 
