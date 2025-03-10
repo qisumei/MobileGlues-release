@@ -7,7 +7,7 @@ MobileGlues
 > 
 > 最新バージョン:
 > 
-> **1.1.0.1**
+> **1.1.0.2**
 > 
 > [リリース](https://github.com/Swung0x48/MobileGlues-release/releases)を参照してください。
 
