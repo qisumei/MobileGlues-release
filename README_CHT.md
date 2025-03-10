@@ -7,7 +7,7 @@ MobileGlues
 > 
 >最新版本：
 >
-> **1.1.0.1**
+> **1.1.0.2**
 >
 > 請查看 [Release](https://github.com/Swung0x48/MobileGlues-release/releases)
 
@@ -44,7 +44,7 @@ MobileGlues
 
 如果您對該項目感興趣，請考慮通過以下方式貢獻：
 
-填寫 [Mod 支持列表](https://github.com/Swung0x48/MobileGlues-release/blob/main/ModSupportMatrix.md) 或 [Shader 支持列表](https://github.com/Swung0x48/MobileGlues-release/blob/main/ShaderSupportMatrix.md)！
+填寫 [模組設備支持列表](https://github.com/Swung0x48/MobileGlues-release/blob/main/ModSupportMatrix.md) 或 [光影設備支持列表](https://github.com/Swung0x48/MobileGlues-release/blob/main/ShaderSupportMatrix.md)！
 
 我們需要您的幫助來測試不同設備對著色器和模組的兼容性！
 
