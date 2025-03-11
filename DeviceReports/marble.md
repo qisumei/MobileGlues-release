@@ -8,7 +8,7 @@
 
 ## MobileGlues version tested
 
-1.1.0.1
+1.1.0.2
 
 ## Mod compatibility
 
@@ -24,7 +24,7 @@
 | Inventory HUD+ | ✅(3.4.26) |
 | Just Enough Items | ✅(19.21.0.247) |
 | Roughly Enough Items |✅(16.0.799) |
-| Distant Horizons | ✅(2.2.1-a) |
+| Distant Horizons | ✅(2.3.0-b) |
 | Modern UI | ✅(3.11.1.9) |
 | Immersive Portals Continued |*️⃣(6.0.7, 无法渲染传送门) |
 
