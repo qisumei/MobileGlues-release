@@ -57,8 +57,8 @@
 | Lux | Iris 1.8.8 | ✅(v1.1_patch2, all presets) |
 | Simplicissimus | Iris 1.8.8 | ✅(v1.3a, all presets) |
 | Sildur's Vibrant Shaders | Iris 1.8.8 | ✅(v1.52, all presets) |
-| Sildur's Enhanced | Iris 1.8.8 | ✅(v1.171 Fancy) |
-| Sildur's Basic | Iris 1.8.8 | ✅(v2.3 Fancy) |
+| Sildur's Enhanced | Iris 1.8.8 | ✅(v1.171, Fancy) |
+| Sildur's Basic | Iris 1.8.8 | ✅(v2.3, Fancy) |
 | SEUS | Iris 1.8.8 | ✅(v10-RC6, v11.0, all presets) |
 | SEUS E | Iris 1.8.8 | ✅(10-12, all presets) |
 | SEUS PTGI HRR | Iris 1.8.8 | ✅(2-3, all presets) |
