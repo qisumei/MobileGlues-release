@@ -1,35 +1,35 @@
 # Compatible Shaders
 
-## With Iris or Optifine:
+| **Shader**                             | **Compatibility** | **Path Tracing** | **Realtime Shadows** | **Water Reflections** | **PBR Textures** | **Requirements** | **Notes**                     |
+|:--------------------------------------:|:-----------------:|:----------------:|:--------------------:|:---------------------:|:----------------:|:----------------:|:-----------------------------:|
+| **Sundial**                            | ✅                 | ✅             | ⚠️                   | ✅                     | ❌               | ANGLE            | PCSS is ALWAYS causing an issue. |
+| **SEUS PTGI HRR 3**                    | ✅                 | ✅             | ❌                  | ✅                     | ✅               | ANGLE             | Some rendering resolutions are causing an issue. |
+| **iterationT 3.2.0**                   | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             | Variable Penumbra Shadow is causing an issue. |
+| **Derivative Main**                    | ✅                 | N/A             | ✅                  | ✅                     | ✅               | ARB_compute_shader and Ignoring shader/program error. |                               |
+| **Photon Shader**                      | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             | Colored Lights doesn't work. Bloom is causing a serious rendering problem without Adreno-GPU. |
+| **Chocapic13 V9.1 Extreme**            | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             | Rendering of the player's hand is broken. |
+| **Chocapic13 V6 Lite**                 | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             |                               |
+| **Chocapic13 No Shadows V1.0 High**    | ✅                 | N/A             | N/A                  | ✅                     | N/A              | None             |                               |
+| **Bliss**                              | ✅                 | N/A             | ✅                  | ✅                     | N/A              | None             |                               |
+| **MakeUp-UltraFast**                   | ✅                 | N/A             | ✅                  | ✅                     | N/A              | None             |                               |
+| **BSL**                                | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             |                               |
+| **SEUS-V11**                           | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             |                               |
+| **SEUS-DAZZLING**                      | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             |                               |
+| **Complementary Shaders**              | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             |                               |
+| **Complementary Shaders - Unbound**    | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             |                               |
+| **Exposa**                             | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             |                               |
+| **BeyondBeliefLegacy**                 | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             |                               |
+| **VanillaPlus**                        | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             |                               |
+| **projectLUMA**                        | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             |                               |
+| **Aurora’s Shaders**                   | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             |                               |
+| **Continuum-1.3**                      | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             | PCSS is causing an issue.     |
+| **Nostalgia**                          | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             |                               |
+| **Open4Es-Shader-Android**             | ✅                 | N/A             | ✅                  | N/A                     | N/A              | None             |                               |
+| **Miniature Shader**                   | ✅                 | N/A             | ✅                  | ✅                     | N/A              | None             |                               |
+| **PotatoShaders**                      | ✅                 | N/A             | N/A                 | N/A                     | ✅               | None             |                               |
+| **Ymir**                               | ✅                 | N/A             | ✅                  | ✅                      | N/A              | None             |                               |
+| **Vector**                             | ✅                 | N/A             | N/A                 | N/A                     | ✅               | None             |                               |
 
-**Path Tracing Shaders with Shadows (requires ANGLE version):**
-- Sundial
-- SEUS PTGI HRR 3
+<sup>1</sup> **Testing Version:** Minecraft 1.21.1, Sodium 0.6.5, Iris 1.8.1
 
-**Shaders with Shadows (may include water reflections):**
-- iterationT 3.2.0
-- Derivative Main
-- Photon Shader
-- Chocapic13 V9 / V6 / Bliss
-- MakeUp-UltraFast
-- BSL
-- SEUS-V11
-- SEUS-DAZZLING
-- Complementary Shaders
-- Complementary Shaders - Unbound
-- Complementary Shaders - Reimagined
-- Exposa
-- BeyondBeliefLegacy
-- VanillaPlus
-- projectLUMA
-- Aurora’s Shaders
-- Continuum-2.0.5
-- Continuum-1.3
-- Nostalgia
-- Open4Es-Shader-Android
-- Miniature Shader
-
-**Other Compatible Shaders:**
-- PotatoShaders
-- Ymir
-- Vector
+<sup>2</sup> **Testing Device:** Redmi K70 Pro, HyperOS 2, Snapdragon® 8 Gen 3 Mobile Platform, Adreno 750
