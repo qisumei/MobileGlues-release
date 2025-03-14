@@ -3,7 +3,7 @@
 | **Shader**                             | **Compatibility** | **Path Tracing** | **Realtime Shadows** | **Water Reflections** | **PBR Textures** | **Requirements** | **Notes**                     |
 |:--------------------------------------:|:-----------------:|:----------------:|:--------------------:|:---------------------:|:----------------:|:----------------:|:-----------------------------:|
 | **Sundial**                            | ✅                 | ✅             | ⚠️                   | ✅                     | ❌               | ANGLE            | PCSS is ALWAYS causing an issue. |
-| **SEUS PTGI HRR 3**                    | ✅                 | ✅             | ❌                  | ✅                     | ✅               | ANGLE             | Some rendering resolution is causing an issue. |
+| **SEUS PTGI HRR 3**                    | ✅                 | ✅             | ❌                  | ✅                     | ✅               | ANGLE             | Some rendering resolutions are causing an issue. |
 | **iterationT 3.2.0**                   | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             | Variable Penumbra Shadow is causing an issue. |
 | **Derivative Main**                    | ✅                 | N/A             | ✅                  | ✅                     | ✅               | ARB_compute_shader and Ignoring shader/program error. |                               |
 | **Photon Shader**                      | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             | Colored Lights doesn't work. Bloom is causing a serious rendering problem without Adreno-GPU. |
