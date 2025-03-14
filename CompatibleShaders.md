@@ -2,7 +2,7 @@
 
 | **Shader**                             | **Compatibility** | **Path Tracing** | **Realtime Shadows** | **Water Reflections** | **PBR Textures** | **Requirements** | **Notes**                     |
 |:--------------------------------------:|:-----------------:|:----------------:|:--------------------:|:---------------------:|:----------------:|:----------------:|:-----------------------------:|
-| **Sundial**                            | ✅                 | ✅             | ⚠                   | ✅                     | ❌               | ANGLE            | PCSS is ALWAYS causing an issue. |
+| **Sundial**                            | ✅                 | ✅             | ⚠️                   | ✅                     | ❌               | ANGLE            | PCSS is ALWAYS causing an issue. |
 | **SEUS PTGI HRR 3**                    | ✅                 | ✅             | ❌                  | ✅                     | ✅               | ANGLE             | Some rendering resolution is causing an issue. |
 | **iterationT 3.2.0**                   | ✅                 | N/A             | ✅                  | ✅                     | ✅               | None             | Variable Penumbra Shadow is causing an issue. |
 | **Derivative Main**                    | ✅                 | N/A             | ✅                  | ✅                     | ✅               | ARB_compute_shader and Ignoring shader/program error. |                               |
