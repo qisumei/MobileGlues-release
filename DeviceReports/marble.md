@@ -20,6 +20,7 @@
 | Xaero's World Map | ✅(1.39.4) |
 | Indium | ✅(1.0.35) |
 | Continuity | ✅(3.0.0) |
+| Create | ✅(6.0.2) |
 | Jade | ✅(15.9.3) |
 | Inventory HUD+ | ✅(3.4.26) |
 | Just Enough Items | ✅(19.21.0.247) |
@@ -54,16 +55,25 @@
 | RedHat | Iris 1.8.8 | ✅(v34.3, all presets) |
 | Tea | Iris 1.8.8 | ✅(v2.0.0_Dev7, all presets) |
 | Lux | Iris 1.8.8 | ✅(v1.1_patch2, all presets) |
-| SEUS | Iris 1.8.8 | ✅(v10-RC6, v11.0, all presets)|
+| Simplicissimus | Iris 1.8.8 | ✅(v1.3a, all presets) |
+| Sildur's Vibrant Shaders | Iris 1.8.8 | ✅(v1.52, all presets) |
+| Sildur's Enhanced | Iris 1.8.8 | ✅(v1.171, Fancy) |
+| Sildur's Basic | Iris 1.8.8 | ✅(v2.3, Fancy) |
+| SEUS | Iris 1.8.8 | ✅(v10-RC6, v11.0, all presets) |
 | SEUS E | Iris 1.8.8 | ✅(10-12, all presets) |
 | SEUS PTGI HRR | Iris 1.8.8 | ✅(2-3, all presets) |
 | SEUS Renewed | Iris 1.8.8 | ✅(v1.0.1, E2, all presets) |
-| SEUS DAZZLING | Iris 1.8.8 | *️⃣(v2.2.4, 光照阴影渲染错误)
+| SEUS DAZZLING | Iris 1.8.8 | *️⃣(v2.2.4, 光照阴影渲染错误) |
 | Continuum | Iris 1.8.8 | ✅(1.3, 2.0.5, all presets) |
-| Kappa | Iris 1.8.8 | *️⃣(v5.2, 所有预设天空盒黑色) |
+| OPAL | Iris 1.8.8 | ✅(v1.1.1, all presets) |
+| Vanilla Plus | Iris 1.8.8 | ✅(v3.3, all presets) |
+| Voxlementary | Iris 1.8.8 | ✅(v1, all presets) |
+| Kappa | Iris 1.8.8 | ✅(v5.3, Ultra) |
+| Mellow Shader | Iris 1.8.8 |✅(v1.5.4, all presets) |
 | Exposa | Iris 1.8.8 | *️⃣(4.13, 颜色异常以及云渲染错误) |
 | KappaPT | Iris 1.8.8 | ❌(P15, 画面黑屏) |
 | Revelation | Iris 1.8.8 | ❌(v1, 地面和建筑无法渲染) |
+| Solas | Iris 1.8.8 | ❌(v2.6, Iris报错无法打开) |
 
 # Mod Screenshot
 ### Immersive Portals Continued
@@ -71,7 +81,7 @@
 ![immersive portals continued](/assets/Mod_screenshot/marble/immersive-portals-2.png)
 
 # Shaderpack Screenshot
-### Kappa v5.2  
+### Kappa v5.2 (天空盒问题更新v5.3解决) 
 ![Kappa](/assets/shaderpack_screenshot/marble/kappa_v5.2.png)
 ### UShader v2.2  
 ![UShader](/assets/shaderpack_screenshot/marble/ushader_2.2.png)
@@ -93,6 +103,6 @@
 ![Chocapic13 HighPerformance Toaster](/assets/shaderpack_screenshot/marble/chocapic13_hpt.png)
 
 # Notes
-在第三方系统 CrDroid 11.x (Android 15)下测试，使用高通786新驱动测试
+在第三方系统 CrDroid 11.x (Android 15)下测试，使用高通786新驱动测试，无ANGLE
 
-不过即便是更新高通GPU驱动，Kappa和UShader的天空永远是黑色(可能是因为GPU有所阉割导致)
+Kappa v5.2有天空盒发黑问题，更新至v5.3可以解决

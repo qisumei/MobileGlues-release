@@ -20,6 +20,7 @@
 | Xaero's World Map | ✅(1.39.4) |
 | Indium | ✅(1.0.35) |
 | Continuity | ✅(3.0.0) |
+| Create | ✅(6.0.2) |
 | Jade | ✅(15.9.3) |
 | Inventory HUD+ | ✅(3.4.26) |
 | Just Enough Items | ✅(19.21.0.247) |
@@ -54,6 +55,10 @@
 | RedHat | Iris 1.8.8 | ✅(v34.3, all presets) |
 | Tea | Iris 1.8.8 | ✅(v2.0.0_Dev7, all presets) |
 | Lux | Iris 1.8.8 | ✅(v1.1_patch2, all presets) |
+| Simplicissimus | Iris 1.8.8 | ✅(v1.3a, all presets) |
+| Sildur's Vibrant Shaders | Iris 1.8.8 | ✅(v1.52, all presets) |
+| Sildur's Enhanced | Iris 1.8.8 | ✅(v1.171, Fancy) |
+| Sildur's Basic | Iris 1.8.8 | ✅(v2.3, Fancy) |
 | SEUS | Iris 1.8.8 | ✅(v10-RC6, v11.0, all presets)|
 | SEUS E | Iris 1.8.8 | ✅(10-12, all presets) |
 | SEUS PTGI HRR | Iris 1.8.8 | ❌(2-3, 无法渲染游戏崩溃) |
@@ -61,10 +66,15 @@
 | SEUS DAZZLING | Iris 1.8.8 | ❌(v2.2.4, 光影整体无法渲染)
 | Continuum 1.3 | Iris 1.8.8 | ❌(天空盒无法渲染) |
 | Continuum 2.0.5 | Iris 1.8.8 | ✅(all presets) |
-| Kappa | Iris 1.8.8 | *️⃣(v5.2, 所有预设天空盒黑色) |
+| OPAL | Iris 1.8.8 | ✅(v1.1.1, all presets) |
+| Vanilla Plus | Iris 1.8.8 | ✅(v3.3, all presets) |
+| Voxlementary | Iris 1.8.8 | ✅(v1, all presets) |
+| Kappa | Iris 1.8.8 | ✅(v5.3, Ultra) |
+| Mellow Shader | Iris 1.8.8 |✅(v1.5.4, all presets) |
 | Exposa | Iris 1.8.8 | ❌(4.13, 无法渲染地形) |
 | KappaPT | Iris 1.8.8 | ❌(P15, 画面黑屏) |
 | Revelation | Iris 1.8.8 | ❌(v1, 地面和建筑无法渲染) |
+| Solas | Iris 1.8.8 | ❌(v2.6, Iris报错无法打开) |
 
 # Shaderpack Screenshot
 ### Beyond Belief Legacy v1.2.4
@@ -85,7 +95,7 @@
 ![SEUS DAZZLING](/assets/shaderpack_screenshot/sagit/SEUS-DAZZLING.png)
 ### Continuum 1.3
 ![Continuum 1.3](/assets/shaderpack_screenshot/sagit/continuum-1.3.png)
-### Kappa 5.2
+### Kappa 5.2 (天空盒问题更新v5.3解决)
 ![Kappa](/assets/shaderpack_screenshot/sagit/kappa5.2.png)
 ### Exposa 4.13
 ![Exposa](/assets/shaderpack_screenshot/sagit/exposa4.13.png)
@@ -95,4 +105,4 @@
 ![Revelation](/assets/shaderpack_screenshot/sagit/Revelation.png)
 
 # Notes
-N/A
+Kappa v5.2存在天空盒发黑问题，更新至v5.3可以解决
