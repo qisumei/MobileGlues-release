@@ -21,7 +21,7 @@
 |**Mod**|**Status**|
 |---|---|
 | Sodium | ✅(0.5.0) |
-| Iris | ✅(1.7.6) |
+| Iris | ✅(1.6.5) |
 | Distant Horizons | ✅(2.3.0-b) |
 | Entity Texture Features | ✅(6.2.9) |
 | Indium | ✅(1.0.23) |
@@ -36,11 +36,11 @@
 
 |**Shaderpack** | **ShaderLoader** | **Status** 
 |---|---|----|
-| BSL | Iris 1.7.6 | ✅(8.4, all presets) |
-| Complementary Shaders - Unbound | Iris 1.7.6 | ✅(r5.4)  
-| Complementary Shaders - Reimagined | Iris 1.7.6 | ✅(r5.4)|
-| Photon | Iris 1.7.6 | *️⃣(v1.1, 闪烁奇怪色块) |
-| iterationT | Iris 1.7.6| ✅(3.2.0, all presets) |
+| BSL | Iris 1.6.5 | ✅(8.4, all presets) |
+| Complementary Shaders - Unbound | Iris 1.6.5 | ✅(r5.4)  
+| Complementary Shaders - Reimagined | Iris 1.6.5 | ✅(r5.4)|
+| Photon | Iris 1.6.5 | *️⃣(v1.1, 闪烁奇怪色块) |
+| iterationT | Iris 1.6.5| ✅(3.2.0, all presets) |
 
 
 ## Notes
